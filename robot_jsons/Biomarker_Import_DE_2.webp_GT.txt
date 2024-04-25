@@ -1,0 +1,82 @@
+[
+    {
+        "biomarker": "Hemoglobin",
+        "value": "14.1",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "91",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "229",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "56.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "33.2",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "8.0",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophiles (percentage)",
+        "value": "1.8",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "0.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Sodium",
+        "value": "143",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Potassium",
+        "value": "4.7",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Calcium",
+        "value": "2.32",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Magnesium",
+        "value": "0.76",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "0.95",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Urea",
+        "value": "34",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Uric Acid",
+        "value": "5.5",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Alkaline Phosphatase",
+        "value": "51",
+        "unit": "U/L"
+    }
+]

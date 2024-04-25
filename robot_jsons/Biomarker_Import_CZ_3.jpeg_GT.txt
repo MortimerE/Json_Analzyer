@@ -1,0 +1,87 @@
+[
+    {
+        "biomarker": "AST",
+        "value": "0.35",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "GGT",
+        "value": "0.28",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Alkaline Phosphatase",
+        "value": "1.35",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "C-Reactive Protein",
+        "value": "2.5",
+        "unit": "mg/L"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "13.0",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "5.46",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "162",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.48",
+        "unit": "L/L"
+    },
+    {
+        "biomarker": "MCV",
+        "value": "87.6",
+        "unit": "fl"
+    },
+    {
+        "biomarker": "MCH",
+        "value": "29.7",
+        "unit": "pg"
+    },
+    {
+        "biomarker": "MCHC",
+        "value": "339",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "356",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "RDW",
+        "value": "10.4",
+        "unit": "%"
+    },
+    {
+        "biomarker": "MPV",
+        "value": "6.1",
+        "unit": "fl"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "80.2",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "14.4",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "3.3",
+        "unit": "%"
+    }
+]

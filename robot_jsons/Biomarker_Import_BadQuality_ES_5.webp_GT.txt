@@ -1,0 +1,77 @@
+[
+    {
+        "biomarker": "Hemoglobin",
+        "value": "13.3",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "39.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "208",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "MPV",
+        "value": "9.1",
+        "unit": "fL"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "4.20",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Neutrophils (absolute)",
+        "value": "2.1",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Lymphocytes (absolute)",
+        "value": "1.5",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Monocytes (absolute)",
+        "value": "0.5",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Eosinophils (absolute)",
+        "value": "0.1",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Basophils (absolute)",
+        "value": "0.0",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "49.8",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "35.0",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "11.2",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophils (percentage)",
+        "value": "2.8",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "1.2",
+        "unit": "%"
+    }
+]

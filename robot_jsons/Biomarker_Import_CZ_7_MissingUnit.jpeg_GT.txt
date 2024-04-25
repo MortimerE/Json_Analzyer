@@ -1,0 +1,87 @@
+[
+    {
+        "biomarker": "Leukocytes",
+        "value": "6.21",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "145",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Erythrocytes",
+        "value": "5.01",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "44",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "250",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Neutrophils",
+        "value": "33",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophils",
+        "value": "7",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils",
+        "value": "1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes",
+        "value": "4",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes",
+        "value": "52",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Plasma Glucose",
+        "value": "4.66",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "79.3",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "3.57",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Iron",
+        "value": "10.5",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "AST",
+        "value": "0.42",
+        "unit": "μkat/L"
+    },
+    {
+        "biomarker": "ALT",
+        "value": "0.42",
+        "unit": "μkat/L"
+    },
+    {
+        "biomarker": "Alkaline Phosphatase",
+        "value": "4.31",
+        "unit": "μkat/L"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "biomarker": "Leukocytes",
+        "value": "6.2",
+        "unit": "Gpt/L"
+    },
+    {
+        "biomarker": "Erythrocytes",
+        "value": "5.03",
+        "unit": "Tpt/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "9.3",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.457",
+        "unit": "Volume fraction"
+    },
+    {
+        "biomarker": "Thrombocytes",
+        "value": "154",
+        "unit": "Gpt/L"
+    },
+    {
+        "biomarker": "ALT (Alanine Aminotransferase)",
+        "value": "0.9",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "AST (Aspartate Aminotransferase)",
+        "value": "8.39",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "Gamma-GT",
+        "value": "5.68",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "5.68",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Triglycerides",
+        "value": "3.24",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "HDL Cholesterol",
+        "value": "Unknown",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "LDL Cholesterol",
+        "value": "3.94",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "94",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "Uric Acid",
+        "value": "106",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "Urea",
+        "value": "4.9",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Sodium",
+        "value": "138",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Potassium",
+        "value": "3.33",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Phosphorous",
+        "value": "0.47",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Calcium",
+        "value": "Unknown",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "TSH",
+        "value": "2.26",
+        "unit": "mIU/L"
+    }
+]

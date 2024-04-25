@@ -1,0 +1,72 @@
+[
+    {
+        "biomarker": "Vitamin B12",
+        "value": "762",
+        "unit": "pg/mL"
+    },
+    {
+        "biomarker": "Vitamin D (25-OH)",
+        "value": "40.0",
+        "unit": "ng/mL"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "7.5",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "5.3",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "15.6",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.46",
+        "unit": "L/L"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "43",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "44",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "4",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophiles (percentage)",
+        "value": "1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "TSH",
+        "value": "1.65",
+        "unit": "μIU/mL"
+    },
+    {
+        "biomarker": "FT4 Free",
+        "value": "X.27",
+        "unit": "ng/dL"
+    },
+    {
+        "biomarker": "FT3 Free",
+        "value": "3.8",
+        "unit": "pg/mL"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "biomarker": "Potassium",
+        "value": "137",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Chloride",
+        "value": "108",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "C-Reactive Protein",
+        "value": "5.8",
+        "unit": "mg/L"
+    },
+    {
+        "biomarker": "TSH",
+        "value": "2.29",
+        "unit": "mIU/L"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "7.2",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "4.57",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "126",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.398",
+        "unit": "Proportion of 1.0"
+    }
+]

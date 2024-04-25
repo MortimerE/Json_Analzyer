@@ -1,0 +1,42 @@
+[
+    {
+        "biomarker": "FSH",
+        "value": "5.5",
+        "unit": "mIU/mL"
+    },
+    {
+        "biomarker": "LH",
+        "value": "5.2",
+        "unit": "mIU/mL"
+    },
+    {
+        "biomarker": "Estradiol",
+        "value": "93.3",
+        "unit": "pmol/L"
+    },
+    {
+        "biomarker": "Prolactin",
+        "value": "487",
+        "unit": "mIU/mL"
+    },
+    {
+        "biomarker": "SHBG",
+        "value": "46.4",
+        "unit": "nmol/L"
+    },
+    {
+        "biomarker": "Testosterone",
+        "value": "0.95",
+        "unit": "nmol/L"
+    },
+    {
+        "biomarker": "TSH",
+        "value": "1.76",
+        "unit": "mIU/L"
+    },
+    {
+        "biomarker": "FT4 Free",
+        "value": "13.8",
+        "unit": "pmol/L"
+    }
+]

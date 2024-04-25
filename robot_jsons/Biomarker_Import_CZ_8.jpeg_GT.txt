@@ -1,0 +1,37 @@
+[
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "8.47",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "5.65",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "146.00",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.43",
+        "unit": "Volume fraction"
+    },
+    {
+        "biomarker": "Mean Corpuscular Volume",
+        "value": "75.60",
+        "unit": "fL"
+    },
+    {
+        "biomarker": "Mean Corpuscular Hemoglobin",
+        "value": "25.90",
+        "unit": "pg"
+    },
+    {
+        "biomarker": "Mean Corpuscular Hemoglobin Concentration",
+        "value": "343.0",
+        "unit": "g/L"
+    }
+]

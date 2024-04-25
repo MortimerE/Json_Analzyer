@@ -1,0 +1,92 @@
+[
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "8.13",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "29.50",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "1012",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "59.00",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "122.00",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.37",
+        "unit": "Proportion of 1.0"
+    },
+    {
+        "biomarker": "Eosinophiles (percentage)",
+        "value": "3.40",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "7.90",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "0.20",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Neutrophils (absolute)",
+        "value": "2.39",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Lymphocytes (absolute)",
+        "value": "4.80",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Eosinophiles (absolute)",
+        "value": "0.28",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Monocytes (absolute)",
+        "value": "0.64",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Basophils (absolute)",
+        "value": "0.02",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "477.0",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "AST (Aspartate Aminotransferase)",
+        "value": "1.00",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "ALT (Alanine Aminotransferase)",
+        "value": "0.50",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "C-Reactive Protein",
+        "value": "0.85",
+        "unit": "mg/L"
+    }
+]

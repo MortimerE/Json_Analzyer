@@ -1,0 +1,117 @@
+[
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "6.22",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "4.54",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "139",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "0.420",
+        "unit": "Volume fraction"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "314",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "37.0",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "49.7",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "8.0",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophiles (percentage)",
+        "value": "4.2",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "1.1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Neutrophils (absolute)",
+        "value": "2.30",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Lymphocytes (absolute)",
+        "value": "3.09",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Monocytes (absolute)",
+        "value": "0.50",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Eosinophiles (absolute)",
+        "value": "0.26",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Basophils (absolute)",
+        "value": "0.07",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "61",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "Alanine Aminotransferase",
+        "value": "0.54",
+        "unit": "μkat/L"
+    },
+    {
+        "biomarker": "Aspartate Aminotransferase",
+        "value": "0.38",
+        "unit": "μkat/L"
+    },
+    {
+        "biomarker": "Gamma-Glutamyl Transferase",
+        "value": "0.42",
+        "unit": "μkat/L"
+    },
+    {
+        "biomarker": "C-Reactive Protein",
+        "value": "1.0",
+        "unit": "mg/L"
+    },
+    {
+        "biomarker": "Plasma Glucose",
+        "value": "5.2",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "6.2",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Triglycerides",
+        "value": "0.69",
+        "unit": "mmol/L"
+    }
+]

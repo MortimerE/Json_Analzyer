@@ -1,0 +1,82 @@
+[
+    {
+        "biomarker": "Plasma Glucose",
+        "value": "4.49",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Urea",
+        "value": "5.1",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "80.6",
+        "unit": "μmol/L"
+    },
+    {
+        "biomarker": "Sodium",
+        "value": "140",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Potassium",
+        "value": "4.2",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "3.82",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "C-Reactive Protein",
+        "value": "0.8",
+        "unit": "mg/L"
+    },
+    {
+        "biomarker": "TSH",
+        "value": "5.90",
+        "unit": "μIU/mL"
+    },
+    {
+        "biomarker": "FT3 Free",
+        "value": "4.5",
+        "unit": "pmol/L"
+    },
+    {
+        "biomarker": "FT4 Free",
+        "value": "16.0",
+        "unit": "pmol/L"
+    },
+    {
+        "biomarker": "Total T3",
+        "value": "1.41",
+        "unit": "nmol/L"
+    },
+    {
+        "biomarker": "Total T4",
+        "value": "114.9",
+        "unit": "nmol/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "132",
+        "unit": "g/L"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "41.3",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "446",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "5.21",
+        "unit": "10^9/L"
+    }
+]

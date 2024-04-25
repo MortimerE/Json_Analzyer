@@ -1,0 +1,27 @@
+[
+    {
+        "biomarker": "PSA Total",
+        "value": "10.5",
+        "unit": "ng/mL"
+    },
+    {
+        "biomarker": "Vitamin D (25-OH)",
+        "value": "150.0",
+        "unit": "ng/mL"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "10.0",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Cortisol",
+        "value": "31.6",
+        "unit": "μg/dL"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "315.0",
+        "unit": "mg/dL"
+    }
+]

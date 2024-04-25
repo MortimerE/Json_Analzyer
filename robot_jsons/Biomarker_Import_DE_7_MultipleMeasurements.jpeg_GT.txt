@@ -1,0 +1,87 @@
+[
+    {
+        "biomarker": "Gamma-Glutamyl Transferase",
+        "value": "16",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Alanine Aminotransferase",
+        "value": "22",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Aspartate Aminotransferase",
+        "value": "24",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "200",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Triglycerides",
+        "value": "180",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Creatine Kinase",
+        "value": "197",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "5.3",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "14.3",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "5.01",
+        "unit": "10^6/μL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "44",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "255",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "48",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "39",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "10",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophiles (percentage)",
+        "value": "3",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Neutrophils (absolute)",
+        "value": "2.54",
+        "unit": "10^3/μL"
+    }
+]

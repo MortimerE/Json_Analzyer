@@ -1,0 +1,52 @@
+[
+    {
+        "biomarker": "C-Reactive Protein",
+        "value": "<5.0",
+        "unit": "mg/L"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "4.4113",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "5.1",
+        "unit": "10^12/L"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "15.0",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "43",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "71",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (absolute)",
+        "value": "2.627",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Monocytes (absolute)",
+        "value": "0.877",
+        "unit": "10^9/L"
+    },
+    {
+        "biomarker": "Eosinophiles (absolute)",
+        "value": "0.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (absolute)",
+        "value": "0.88",
+        "unit": "%"
+    }
+]

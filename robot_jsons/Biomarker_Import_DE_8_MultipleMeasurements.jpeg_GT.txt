@@ -1,0 +1,112 @@
+[
+    {
+        "biomarker": "Hemoglobin",
+        "value": "7.5",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "21.1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Erythrocytes",
+        "value": "2.15",
+        "unit": "10^6/μL"
+    },
+    {
+        "biomarker": "MCV",
+        "value": "98",
+        "unit": "fL"
+    },
+    {
+        "biomarker": "MCH",
+        "value": "34.8",
+        "unit": "pg"
+    },
+    {
+        "biomarker": "MCHC",
+        "value": "35.4",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "5",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Leukocytes",
+        "value": "54.6",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "11",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "1",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Sodium",
+        "value": "139",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Potassium",
+        "value": "3.4",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Calcium",
+        "value": "2.13",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "1.11",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Urea",
+        "value": "11",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Uric Acid",
+        "value": "10.8",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Plasma Glucose",
+        "value": "93",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Total Protein",
+        "value": "6.9",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Albumin",
+        "value": "3.4",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Bilirubin Total",
+        "value": "0.2",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "AST (Aspartate Aminotransferase)",
+        "value": "24",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "ALT (Alanine Aminotransferase)",
+        "value": "13",
+        "unit": "U/L"
+    }
+]

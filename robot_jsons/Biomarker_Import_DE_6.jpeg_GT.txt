@@ -1,0 +1,109 @@
+[
+    {
+        "biomarker": "Erythrocytes",
+        "value": "5.35",
+        "unit": "10^6/µL"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "16.3",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "7.7",
+        "unit": "10^3/µL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "42.0",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Platelets",
+        "value": "223",
+        "unit": "10^3/µL"
+    },
+    {
+        "biomarker": "PTT",
+        "value": "24",
+        "unit": "s"
+    },
+    {
+        "biomarker": "D-Dimer",
+        "value": "0.14",
+        "unit": "mg/L"
+    },
+    {
+        "biomarker": "Bilirubin Total",
+        "value": "0.73",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "ALT",
+        "value": "29",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "GGT",
+        "value": "35",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Alkaline Phosphatase",
+        "value": "64.7",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "LDH",
+        "value": "208",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Creatine Kinase",
+        "value": "187",
+        "unit": "U/L"
+    },
+    {
+        "biomarker": "Plasma Glucose",
+        "value": "111",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Urea Nitrogen",
+        "value": "13.1",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "1.09",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Potassium",
+        "value": "4.39",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Sodium",
+        "value": "140",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Calcium",
+        "value": "2.48",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "241",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "LDL Cholesterol",
+        "value": "147",
+        "unit": "mg/dL"
+    }
+]
+```
+Note: Some biomarker names were corrected or standardized based on the provided dictionary and the input data. Also, some measurements, like potassium, sodium, and calcium, are provided in mmol/L, which is within the standard units offered in your dictionary. Units have been converted or matched as closely as possible to the standardized for

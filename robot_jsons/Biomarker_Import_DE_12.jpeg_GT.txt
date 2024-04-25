@@ -1,0 +1,87 @@
+[
+    {
+        "biomarker": "Leukocytes / White Blood Cells (absolute)",
+        "value": "5.88",
+        "unit": "10^3/μL"
+    },
+    {
+        "biomarker": "Erythrocytes / Red Blood Cells (absolute)",
+        "value": "4.53",
+        "unit": "10^6/μL"
+    },
+    {
+        "biomarker": "Hemoglobin",
+        "value": "12.2",
+        "unit": "g/dL"
+    },
+    {
+        "biomarker": "Hematocrit",
+        "value": "39.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Neutrophils (percentage)",
+        "value": "47.4",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Lymphocytes (percentage)",
+        "value": "41.0",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Eosinophiles (percentage)",
+        "value": "4.6",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Basophils (percentage)",
+        "value": "0.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Monocytes (percentage)",
+        "value": "6.5",
+        "unit": "%"
+    },
+    {
+        "biomarker": "Sodium",
+        "value": "136.1",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Potassium",
+        "value": "4.00",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Calcium",
+        "value": "2.22",
+        "unit": "mmol/L"
+    },
+    {
+        "biomarker": "Iron",
+        "value": "60-69",
+        "unit": "μg/dL"
+    },
+    {
+        "biomarker": "Uric Acid",
+        "value": "4.16",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Urea",
+        "value": "13.93",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Creatinine",
+        "value": "0.69",
+        "unit": "mg/dL"
+    },
+    {
+        "biomarker": "Total Cholesterol",
+        "value": "139.27",
+        "unit": "mg/dL"
+    }
+]
