@@ -56,9 +56,10 @@ def process_and_validate(json_file_path, biomarker_database):
     aliased_biomarkers_report = []
     double_invalid_report = []
 
-    flag = True
+
 
     for entry in biomarker_data:
+        flag = True
         biomarker = entry['biomarker']
         unit = entry['unit']
         if biomarker in biomarker_database:
@@ -87,7 +88,6 @@ def process_and_validate(json_file_path, biomarker_database):
                             f"{biomarker}: Invalid unit '{unit}', valid units are {biomarker_database[label][1]}"
                         )
                     break
-
     #"""
     #for entry in biomarker_data:
     #    biomarker = entry['biomarker']
@@ -136,10 +136,10 @@ def select_file(directory):
 
 
 def main():
-    csv_file_path = input("Enter the file path to the CSV file containing the biomarker database: ")
-    #csv_file_path = "vaclav_dictionary.csv"
-    directory = input("Enter the directory path containing the JSON files: ")
-    #directory = "robot_jsons"
+    #csv_file_path = input("Enter the file path to the CSV file containing the biomarker database: ")
+    csv_file_path = "vaclav_dictionary.csv"
+    #directory = input("Enter the directory path containing the JSON files: ")
+    directory = "robot_jsons"
     if not os.path.isdir(directory) or not os.path.isfile(csv_file_path):
         print("The provided path is not valid.")
         return

@@ -105,5 +105,3 @@
         "unit": "mg/dL"
     }
 ]
-```
-Note: Some biomarker names were corrected or standardized based on the provided dictionary and the input data. Also, some measurements, like potassium, sodium, and calcium, are provided in mmol/L, which is within the standard units offered in your dictionary. Units have been converted or matched as closely as possible to the standardized for
